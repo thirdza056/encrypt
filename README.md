@@ -1,8 +1,8 @@
 # encrypt
 
-#Operating system	Linux
+# Operating system	Linux
 
-#Ubuntu 18.04 LTS (Bionic Beaver)
+# Ubuntu 18.04 LTS (Bionic Beaver)
 
 shell script compiler
 
