@@ -6,3 +6,5 @@
 
 * shell script compiler
 
+
+wget -q http://www.datsi.fi.upm.es/~frosal/sources/shc-3.8.9.tgz
